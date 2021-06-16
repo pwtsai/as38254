@@ -6,7 +6,6 @@
 ## Acknowledgments
 * [Taiwan Information Security Center](https://www.twisc.org/): Sponsor
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location
-* [Taiwan Information Security Center](https://www.twisc.org/): Facility
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/) (AS7539): IP resource
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
