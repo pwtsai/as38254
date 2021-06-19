@@ -1,7 +1,7 @@
 ## About ITLab Network (AS38254), please kindly find this [page](https://connect.pwtsai.im).
 * APNIC::AS-ITLAB
 * A non-profit network for research and education purposes.
-* A part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
+* APAC-NA part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
 
 ## Acknowledgments
 * [Taiwan Information Security Center](https://www.twisc.org/): Sponsor
