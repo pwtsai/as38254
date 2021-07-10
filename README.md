@@ -9,7 +9,7 @@
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/) (AS7539): IP resource
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
-* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (as18041): HK transit
+* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): HK transit
 
 ## Remark Links
 * [PeeringDB](https://www.peeringdb.com/asn/38254/)  
