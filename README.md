@@ -8,8 +8,8 @@
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/) (AS7539): IP resource
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): IP resource
-* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): HK transit and co-location
-* [Eons Data Communications Limited](#) (AS138997): APAC transit
+* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): US transit and co-location
+* [Eons Data Communications Limited](#) (AS138997): HK transit
 * [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): HK transit
 
 ## Remark Links
