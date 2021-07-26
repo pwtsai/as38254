@@ -13,5 +13,5 @@
 * [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): HK transit
 
 ## Remark Links
-* [PeeringDB](https://www.peeringdb.com/asn/38254/)  
+* [PeeringDB](https://as38254.peeringdb.com/)  
 * [HE.NET](https://bgp.he.net/AS38254)  
