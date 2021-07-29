@@ -9,8 +9,8 @@
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/) (AS7539): IP resource
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): IP resource
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and co-location
-* [Eons Data Communications Limited](#) (AS138997): APAC Transit
-* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): APAC Transit
+* [Eons Data Communications Limited](#) (AS138997): APAC transit
+* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): APAC transit
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
