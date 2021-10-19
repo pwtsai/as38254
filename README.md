@@ -10,7 +10,7 @@
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): US transit and IP resource
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
-* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): APAC transit
+* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): Co-location
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
