@@ -11,6 +11,7 @@
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
 * [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): Co-location
+* [Hurricane Electric](https://bgp.he.net/) (AS6939): IPv6 transit
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
