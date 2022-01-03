@@ -12,6 +12,7 @@
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
 * [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): Co-location
 * [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
+* [AMPRNet](https://portal.ampr.org/) (AS7377): IP resource
 * [August Internet](https://www.august.tw/) (AS7719): US transit and co-location
 
 ## Remark Links
