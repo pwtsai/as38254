@@ -10,10 +10,9 @@
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): US transit and IP resource
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): US transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
-* [Taiwan Digital Streaming Co.](http://www.twds.com.tw/) (AS18041): Co-location
 * [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
 * [AMPRNet](https://portal.ampr.org/) (AS7377): IP resource
-* [August Internet](https://www.august.tw/) (AS7719): US transit and co-location
+* [August Internet](https://www.august.tw/) (AS7719): US transit
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
