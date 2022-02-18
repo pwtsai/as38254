@@ -16,4 +16,5 @@
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
-* [HE.NET](https://bgp.he.net/AS38254)  
+* [he.net](https://bgp.he.net/AS38254)  
+* [bgp.tools](https://bgp.tools/as/38254)
