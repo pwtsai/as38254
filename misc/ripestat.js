@@ -35,7 +35,7 @@ ripestat('asn-neighbours/data.json', 'resource=AS38254', rslt => {
 		.sort((a, b) => a - b);
 
 	var peer = rslt.data.neighbours.filter(n => (n.type === 'left' && n.power <= 5) || n.type === 'uncertain').map(n => n.asn)
-		.filter(a => a !== 56758)
+		.filter(a => a !== 38254)
 		.filter((i, p, s) => s.indexOf(i) == p)
 		.sort((a, b) => a - b);
 	
