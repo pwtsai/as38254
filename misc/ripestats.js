@@ -18,9 +18,9 @@ var ripestat = new api('https://stat.ripe.net/data/');ripestat('prefix-overview/
 
 var n_prefixes = rslt.see_also.filter(a => a.relation == 'more-specific').map(m => parseInt(m.resource.split('/')[1]))
 		.reduce((acc, cur) => acc + 2 ** (48 - cur), 0);
-	document.getElementById('n_prefixes').innerText = n_prefixes;
+	//document.getElementById('n_prefixes').innerText = n_prefixes;
 }, () => {
-	document.getElementById('n_prefixes').innerText = "error loading data from RIPEstat.";
+	//document.getElementById('n_prefixes').innerText = "error loading data from RIPEstat.";
 });
 
 
