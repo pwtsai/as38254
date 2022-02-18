@@ -47,7 +47,7 @@ ripestat('asn-neighbours/data.json', 'resource=AS38254', rslt => {
 	var list_transit = document.getElementById('list_transit');
 
 	document.getElementById('last_update_transit_cust').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
-	ocument.getElementById('last_update_transit_peer').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
+	document.getElementById('last_update_transit_peer').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
 	document.getElementById('last_update_transit').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
 
 	list_transit_cust.innerHTML = '';
@@ -92,7 +92,7 @@ ripestat('asn-neighbours/data.json', 'resource=AS38254', rslt => {
 		span.appendChild(a);
 		list_transit.appendChild(span);
 	});
-}, () => {
+	}, () => {
 	list_transit_cust.innerText = "error loading data from RIPEstat.";
 	list_transit_peer.innerText = "error loading data from RIPEstat.";
 	list_transit.innerText = "error loading data from RIPEstat.";
