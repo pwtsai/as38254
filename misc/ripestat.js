@@ -51,8 +51,9 @@ ripestat('asn-neighbours/data.json', 'resource=AS38254', rslt => {
 	/*
 	document.getElementById('last_update_transit').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
 	document.getElementById('last_update_transit_peer').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
-	document.getElementById('last_update_transit_cust').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
 	*/
+	document.getElementById('last_update_transit_cust').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
+	
 	
 	list_transit_cust.innerHTML = '';
 	list_transit_peer.innerHTML = '';
