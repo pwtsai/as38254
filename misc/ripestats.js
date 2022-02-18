@@ -13,14 +13,14 @@ var api = function (api_base) {
 	};
 };
 
-var ripestat = new api('https://stat.ripe.net/data/');ripestat('prefix-overview/data.json', 'max_related=114514&min_peers_seeing=0&resource=2001%3Adf6%3Ac480%3A%3A%2F48', rslt => {
+<!--var ripestat = new api('https://stat.ripe.net/data/');ripestat('prefix-overview/data.json', 'max_related=114514&min_peers_seeing=0&resource=2001%3Adf6%3Ac480%3A%3A%2F48', rslt => {
 	var n_prefixes = rslt.see_also.filter(a => a.relation == 'more-specific').map(m => parseInt(m.resource.split('/')[1]))
 		.reduce((acc, cur) => acc + 2 ** (48 - cur), 0);
 
 	document.getElementById('n_prefixes').innerText = n_prefixes;
 }, () => {
 	document.getElementById('n_prefixes').innerText = "error loading data from RIPEstat.";
-});
+});-->
 
 var list_transit_cust = document.getElementById('list_transit_cust');
 var list_transit_peer = document.getElementById('list_transit_peer');
@@ -46,8 +46,8 @@ ripestat('asn-neighbours/data.json', 'resource=AS38254', rslt => {
 	var list_transit_peer = document.getElementById('list_transit_peer');
 	var list_transit = document.getElementById('list_transit');
 
-	document.getElementById('last_update_transit').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
-	document.getElementById('last_update_transit_peer').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
+	<!--document.getElementById('last_update_transit').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();-->
+	<!--document.getElementById('last_update_transit_peer').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();-->
 	<!--document.getElementById('last_update_transit_cust').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();-->
 	
 	list_transit_cust.innerHTML = '';
