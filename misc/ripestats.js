@@ -13,11 +13,12 @@ var api = function (api_base) {
 	};
 };
 
-/*
+
 var ripestat = new api('https://stat.ripe.net/data/');ripestat('prefix-overview/data.json', 'max_related=114514&min_peers_seeing=0&resource=2001%3Adf6%3Ac480%3A%3A%2F48', rslt => {
-	var n_prefixes = rslt.see_also.filter(a => a.relation == 'more-specific').map(m => parseInt(m.resource.split('/')[1]))
+/*
+var n_prefixes = rslt.see_also.filter(a => a.relation == 'more-specific').map(m => parseInt(m.resource.split('/')[1]))
 		.reduce((acc, cur) => acc + 2 ** (48 - cur), 0);
-	<!--document.getElementById('n_prefixes').innerText = n_prefixes;
+	document.getElementById('n_prefixes').innerText = n_prefixes;
 }, () => {
 	document.getElementById('n_prefixes').innerText = "error loading data from RIPEstat.";
 });
