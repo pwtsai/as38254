@@ -8,11 +8,11 @@
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/) (AS7539): IP resource
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): US transit and IP resource
-* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): US transit and co-location
+* [T.-Y. Yu](https://network.steveyi.net/) (AS7480): US transit and co-location
 * [Eons Data Communications Limited](#) (AS138997): APAC transit
 * [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
 * [AMPRNet](https://portal.ampr.org/) (AS7377): IP resource
-* [August Internet](https://www.august.tw/) (AS7719): US transit
+* [August Internet](https://www.august.tw/) (AS50058): US transit
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
