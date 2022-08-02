@@ -6,7 +6,7 @@
 
 ## Acknowledgement to collaborators 
 * [Taiwan Information Security Center](https://www.twisc.org/): LIR sponsor
-* [National Center for High-performance Computing](https://www.nchc.org.tw/): Internet resource and co-location 
+* [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
 * [Black Mesa Corporation/Nato Research Ltd.](https://internet.nat.moe/): Internet resource and Co-location
 * [T.-Y. Yu](https://network.steveyi.net/): Internet resource and co-location
