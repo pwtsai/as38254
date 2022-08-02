@@ -13,7 +13,7 @@
 * [Licson Internet Servic/Eons Data Communications Limited](https://licson.net/): IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
-* [August Internet](https://www.august.tw/): IPT
+* [August Internet](https://www.august.tw/): Co-location and IPT
 * [Kirino LLC](https://www.as41378.net/): Co-location and IPT
 
 ## Remark Links
