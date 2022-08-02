@@ -8,7 +8,7 @@
 * [Taiwan Information Security Center](https://www.twisc.org/): LIR sponsor
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
-* [Nato Research Ltd.](https://internet.nat.moe/): Internet resource and Co-location
+* [Nato Research Ltd](https://internet.nat.moe/): Internet resource and Co-location
 * [T.-Y. Yu](https://network.steveyi.net/): Internet resource and co-location
 * [Licson Internet Servic/Eons Data Communications Limited](https://licson.net/): IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
