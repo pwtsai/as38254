@@ -17,7 +17,6 @@
 * [Kirino LLC](https://www.as41378.net/): Co-location and IPT
 
 ## Remark Links
-* [LookingGlass](https://lg.itlab.cc)  
 * [PeeringDB](https://as38254.peeringdb.com/)  
 * [he.net](https://bgp.he.net/AS38254)  
 * [bgp.tools](https://bgp.tools/as/38254)
