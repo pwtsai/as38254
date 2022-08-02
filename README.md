@@ -2,7 +2,7 @@
 * APNIC::AS-ITLAB
 * A non-profit network for research and education purposes.
 * It is a part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
-* (TBD) LIR and free IPT services for non-profit personal/academic R&E purposes
+* (Coming soon) LIR and free IPT services for non-profit research and education purposes.
 
 ## Acknowledgement to collaborators 
 * [Taiwan Information Security Center](https://www.twisc.org/): LIR sponsor
