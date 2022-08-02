@@ -10,7 +10,7 @@
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
 * [Nato Research Ltd](https://internet.nat.moe/): Internet resource and Co-location
 * [T.-Y. Yu](https://network.steveyi.net/): Internet resource and co-location
-* [Licson Internet Servic/Eons Data Communications Limited](https://licson.net/): IPT
+* [Licson Internet Service/Eons](https://licson.net/): IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
 * [August Internet](https://www.august.tw/): Co-location and IPT
