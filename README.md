@@ -5,9 +5,21 @@
 * APNIC::AS-ITLAB
 * A non-profit network for research and education purposes.
 * It is a part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
-* (Coming soon) LIR and free IPT services for non-profit research and education purposes.
+* (Coming soon) R&E network IPT for non-profit research and education purposes.
 
-## Acknowledgement to collaborators 
+## Joined IX:
+* [ARIX](https://arix.dev/)
+* [Lambda-IX](https://lambda-ix.net/)
+* [STUIX](https://stuix.io/)
+
+## Private Network Interconnect:
+* [TWAREN](https://www.twaren.net/): AS7659
+* [Hurricane Electric](https://www.he.net/): AS6939
+* [CloudFlare](https://www.cloudflare.com/): AS13335
+* [Google LLC](https://about.google/intl/en/): AS15169
+* [Amazon.com](https://www.amazon.com/): AS16509
+
+## Acknowledgements
 * [Taiwan Information Security Center](https://www.twisc.org/): LIR sponsor
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
