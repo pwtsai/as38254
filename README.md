@@ -7,7 +7,7 @@
 * It is a part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
 
 ## Faculty:
-This BGP experiment network is operated and maintained by P.-W. Tsai since 2021.
+This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pwtsai.im/) since 2021.
 
 ## Joined IX:
 * [ARIX](https://arix.dev/)
