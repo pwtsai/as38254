@@ -32,6 +32,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [AMPRNet](https://portal.ampr.org/): Internet resource
 * [August Internet](https://www.august.tw/): Co-location and IPT
 * [Kirino LLC](https://www.as41378.net/): Co-location and IPT
+* [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
