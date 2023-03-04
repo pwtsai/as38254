@@ -11,6 +11,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 
 ## Joined IX:
 * [ARIX](https://arix.dev/)
+* [GPC Missouri] (https://greatplains.io/)
 * [Lambda-IX](https://lambda-ix.net/)
 * [STUIX](https://stuix.io/)
 
@@ -32,6 +33,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [AMPRNet](https://portal.ampr.org/): Internet resource
 * [August Internet](https://www.august.tw/): Co-location and IPT
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
+* [Yuan-Jhen Info., Co., Ltd](https://host.com.tw/): IPT
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
