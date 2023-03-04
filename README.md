@@ -24,7 +24,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Amazon.com](https://www.amazon.com/): AS16509
 
 ## Acknowledgements
-* [Taiwan Information Security Center](https://www.twisc.org/): LIR sponsor
+* [Taiwan Information Security Center](https://www.twisc.org/): APNIC member fee sponsor
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
 * [Nato Research Ltd](https://internet.nat.moe/): Internet resource and Co-location
