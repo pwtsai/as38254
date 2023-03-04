@@ -11,7 +11,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 
 ## Joined IX:
 * [ARIX](https://arix.dev/)
-* [GPC Missouri] (https://greatplains.io/)
+* [GPC Missouri](https://greatplains.io/)
 * [Lambda-IX](https://lambda-ix.net/)
 * [STUIX](https://stuix.io/)
 
