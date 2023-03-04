@@ -14,6 +14,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [GPC Missouri](https://greatplains.io/)
 * [Lambda-IX](https://lambda-ix.net/)
 * [STUIX](https://stuix.io/)
+* [Formosa Open eXchange](https://www.fox.net.tw/)
 
 ## Private Network Interconnect:
 * [TWAREN](https://www.twaren.net/): AS7659
