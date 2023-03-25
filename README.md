@@ -23,6 +23,10 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Google LLC](https://about.google/intl/en/): AS15169
 * [Amazon.com](https://www.amazon.com/): AS16509
 
+## Route Collector:
+* [RIPE RRC25](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris): AS21654 (Provisioning)
+* [BGP.TOOLS](https://bgp.tools/): AS212232
+
 ## Acknowledgements
 * [Taiwan Information Security Center](https://www.twisc.org/): APNIC member fee sponsor
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
