@@ -10,11 +10,11 @@
 This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pwtsai.im/) since 2021.
 
 ## Joined IX:
-* [ARIX](https://arix.dev/)
+* [Amateur Radio Internet Exchange (ARIX)](https://arix.dev/)
 * [GPC Missouri](https://greatplains.io/)
 * [Lambda-IX](https://lambda-ix.net/)
 * [STUIX](https://stuix.io/)
-* [Formosa Open eXchange](https://www.fox.net.tw/) (Provisioning)
+* [Formosa Open eXchange](https://www.fox.net.tw/) 
 
 ## Private Network Interconnect:
 * [TWAREN](https://www.twaren.net/): AS7659
@@ -24,7 +24,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Amazon.com](https://www.amazon.com/): AS16509
 
 ## Route Collector:
-* [RIPE Routing Information Service/RRC25](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris) (Provisioning)
+* [RIPE Routing Information Service/RRC25](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris) 
 * [BGP.TOOLS](https://bgp.tools/)
 
 ## Acknowledgements
