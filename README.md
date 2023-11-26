@@ -4,7 +4,7 @@
 ## About ITLab Network (AS38254), please kindly find this [page](https://connect.itlab.cc).
 * APNIC::AS-ITLAB
 * A non-profit network for research and education purposes.
-* It is a part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
+* Co-sponsored by [NSTC](https://www.nstc.gov.tw/), [TACC](https://www.tacc.tw/index), [TEIN/ASI@Connect](https://www.tein.asia/), and [APNIC Foundation/isif@asia](https://isif.asia/).
 
 ## Faculty:
 This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pwtsai.im/) since 2021.
@@ -28,15 +28,14 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [BGP.TOOLS](https://bgp.tools/)
 
 ## Acknowledgements
-* [Taiwan Information Security Center](https://www.twisc.org/): Sponsor
-* [National Center for High-performance Computing](https://www.nchc.org.tw/): Co-location 
+* [National Center for High-performance Computing](https://www.nchc.org.tw/): Colo 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
-* [Nato Research Ltd](https://internet.nat.moe/): Internet resource and Co-location
-* [T.-Y. Yu](https://network.steveyi.net/): Internet resource, co-location, and IPT
+* [Nato Research Ltd](https://internet.nat.moe/): Internet resource and colo
+* [T.-Y. Yu](https://network.steveyi.net/): Internet resource, colo, and IPT
 * [Licson Internet Service/Eons](https://licson.net/): IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
-* [August Internet](https://www.august.tw/): Co-location and IPT
+* [August Internet](https://www.august.tw/): Colo and IPT
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
 * [Yuan-Jhen Info., Co., Ltd](https://host.com.tw/): IPT
 
