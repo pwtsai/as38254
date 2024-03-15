@@ -1,5 +1,6 @@
 ### ![ITLab Network Logo](https://connect.itlab.cc/misc/itlabnet.png)
 ### ![OFTEIN Logo](https://connect.itlab.cc/misc/sponsor.png)
+### ![LOCAL SPONSOR Logo](https://connect.itlab.cc/misc/sponsor2.png)
 
 ## About ITLab Network (AS38254), please kindly find this [page](https://connect.itlab.cc).
 * APNIC::AS-ITLAB
