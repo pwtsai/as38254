@@ -3,7 +3,7 @@
 
 
 ## About ITLab Network (AS38254), please kindly find this [page](https://connect.itlab.cc).
-* APNIC::AS-ITLAB
+* APNIC::AS38254:AS-ITLAB
 * A non-profit network for research and education purposes.
 * Co-sponsored by [NCHC](https://www.nchc.org.tw/), [NSTC](https://www.nstc.gov.tw/), [TACC](https://www.tacc.tw/index), [TEIN/ASI@Connect](https://www.tein.asia/), and [APNIC Foundation/isif@asia](https://isif.asia/).
 
