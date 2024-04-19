@@ -5,7 +5,7 @@
 ## About ITLab Network (AS38254), please kindly find this [page](https://connect.itlab.cc).
 * APNIC::AS-ITLAB
 * A non-profit network for research and education purposes.
-* Co-sponsored by [NSTC](https://www.nstc.gov.tw/), [TACC](https://www.tacc.tw/index), [TEIN/ASI@Connect](https://www.tein.asia/), and [APNIC Foundation/isif@asia](https://isif.asia/).
+* Co-sponsored by [NCHC](https://www.nchc.org.tw/), [NSTC](https://www.nstc.gov.tw/), [TACC](https://www.tacc.tw/index), [TEIN/ASI@Connect](https://www.tein.asia/), and [APNIC Foundation/isif@asia](https://isif.asia/).
 
 ## Faculty:
 This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pwtsai.im/) since 2021.
