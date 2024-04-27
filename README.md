@@ -35,17 +35,18 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Colo 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
 * [Nato Research Ltd](https://internet.nat.moe/): Internet resource
-* [T.-Y. Yu](https://network.steveyi.net/): Internet resource, colo, and IPT
+* [T.-Y. Yu](https://network.steveyi.net/): Internet resource and colo
 * [Licson Internet Service/Eons](https://licson.net/): IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
 * [August Internet](https://www.august.tw/): Colo and IPT
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
 * [Yuan-Jhen Info., Co., Ltd](https://host.com.tw/): IPT
+* [RAID Networks](https://www.raidnetworks.net/): Internet resource
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
 * [he.net](https://bgp.he.net/AS38254)  
 * [bgp.tools](https://bgp.tools/as/38254)
-
+* [RIPE Atlas Tracemon](https://connect.itlab.cc/tracemon.html)
 
