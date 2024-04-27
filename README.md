@@ -20,12 +20,12 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Student& Technology United Internet Exchanges (STUIX)](https://stuix.io/)
 
 ## Private Network Interconnect:
-* [TWAREN](https://www.twaren.net/): AS7659
-* [Hurricane Electric](https://www.he.net/): AS6939
-* [Chief Telecom Inc.](https://www.chief.com.tw/): AS17408
-* [CloudFlare](https://www.cloudflare.com/): AS13335
-* [Google LLC](https://about.google/intl/en/): AS15169
-* [Amazon.com](https://www.amazon.com/): AS16509
+* [Hurricane Electric](https://www.he.net/) (AS6939)
+* [TWAREN](https://www.twaren.net/) (AS7539)
+* [CloudFlare](https://www.cloudflare.com/) (AS13335)
+* [Google LLC](https://about.google/intl/en/) (AS15169)
+* [Amazon.com](https://www.amazon.com/) (AS16509)
+* [Chief Telecom Inc.](https://www.chief.com.tw/) (AS17408)
 
 ## Route Collector:
 * [RIPE Routing Information Service/RRC25](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris) 
