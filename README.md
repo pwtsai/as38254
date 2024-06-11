@@ -26,6 +26,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Google LLC](https://about.google/intl/en/) (AS15169)
 * [Amazon.com](https://www.amazon.com/) (AS16509)
 * [Chief Telecom Inc.](https://www.chief.com.tw/) (AS17408)
+* [Meta](https://www.meta.com/) (AS32934)
 
 ## Route Collector:
 * [RIPE Routing Information Service/RRC25](https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris) 
