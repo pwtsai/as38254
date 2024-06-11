@@ -19,7 +19,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Lambda-IX](https://lambda-ix.net/)
 * [Student& Technology United Internet Exchanges (STUIX)](https://stuix.io/)
 
-## Private Network Interconnect:
+## Private Network Interconnect/Peering:
 * [Hurricane Electric](https://www.he.net/) (AS6939)
 * [TWAREN](https://www.twaren.net/) (AS7539)
 * [CloudFlare](https://www.cloudflare.com/) (AS13335)
