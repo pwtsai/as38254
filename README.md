@@ -44,7 +44,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
 * [Yuan-Jhen Info., Co., Ltd](https://host.com.tw/): IPT
 * [RAID Networks](https://www.raidnetworks.net/): Internet resource
-* [Qostoz](https://lg.daoport.net/): 400G Switch
+* [Qostoz](https://lg.daoport.net/): Colo, IPT, and 400G Switch
 
 ## Remark Links
 * [PeeringDB](https://as38254.peeringdb.com/)  
