@@ -30,6 +30,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Google LLC](https://about.google/intl/en/) (AS15169)
 * [Amazon.com](https://www.amazon.com/) (AS16509)
 * [Chief Telecom Inc.](https://www.chief.com.tw/) (AS17408)
+* [TANet](https://traffic.tanet.edu.tw/) (AS17717)
 * [Meta](https://www.meta.com/) (AS32934)
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/en/) (AS59105)
 
