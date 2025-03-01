@@ -16,7 +16,6 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Amateur Radio Internet Exchange (ARIX)](https://arix.dev/)
 * [FogIXP](https://fogixp.org/)
 * [Formosa Open eXchange (FOX)](https://www.fox.net.tw/) 
-* [GPC Missouri](https://greatplains.io/)
 * [KleyReX](https://kleyrex.net/en/)
 * [Lambda-IX](https://lambda-ix.net/)
 * [LOCIX Frankfurt](https://locix.online/)
@@ -46,7 +45,6 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [Licson Internet Service/Eons](https://licson.net/): Internet resource and IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
-* [August Internet](https://www.august.tw/): IPT
 * [Home NOC Operators' Group](https://www.homenoc.ad.jp/): IPT
 * [Yuan-Jhen Info., Co., Ltd](https://host.com.tw/): IPT
 * [RAID Networks](https://www.raidnetworks.net/): Internet resource and IPT
