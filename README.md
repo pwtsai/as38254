@@ -40,7 +40,7 @@ This BGP experiment network is operated and maintained by [P.-W. Tsai](http://pw
 * [National Center for High-performance Computing](https://www.nchc.org.tw/): Colo 
 * [TaiWan Advanced Research and Education Network](https://www.twaren.net/english/): IPT
 * [Nato Research Ltd](https://internet.nat.moe/): Internet resource
-* [T.-Y. Yu](https://network.steveyi.net/): Internet resource and IPT
+* [T.-Y. Yu](https://network.steveyi.net/): Internet resource
 * [Licson Internet Service/Eons](https://licson.net/): Internet resource and IPT
 * [Hurricane Electric](https://bgp.he.net/): IPT
 * [AMPRNet](https://portal.ampr.org/): Internet resource
